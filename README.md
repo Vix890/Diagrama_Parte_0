@@ -1,4 +1,4 @@
-# Diagrana_Parte_0
+# Diagrama_Parte_0
 Part 0 exercises from https://fullstackopen.com/ courses
 
 ## 0.4: nueva nota
